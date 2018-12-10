@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace For_Loop
 {
-    public partial class ForLoop : Form
+    public partial class Form1 : Form
     {
-        public ForLoop()
+        public Form1()
         {
             InitializeComponent();
         }

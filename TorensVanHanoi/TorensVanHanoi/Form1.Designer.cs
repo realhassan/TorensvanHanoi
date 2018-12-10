@@ -41,7 +41,6 @@
             this.btnForLoop.TabIndex = 0;
             this.btnForLoop.Text = "For-loop";
             this.btnForLoop.UseVisualStyleBackColor = true;
-            this.btnForLoop.Click += new System.EventHandler(this.btnForLoop_Click);
             // 
             // btnMachtsverheffen
             // 
