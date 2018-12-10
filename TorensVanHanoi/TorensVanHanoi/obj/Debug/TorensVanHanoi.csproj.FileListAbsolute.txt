@@ -1,0 +1,10 @@
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\TorensVanHanoi\bin\Debug\TorensVanHanoi.exe.config
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\TorensVanHanoi\bin\Debug\TorensVanHanoi.exe
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\TorensVanHanoi\bin\Debug\TorensVanHanoi.pdb
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\TorensVanHanoi\obj\Debug\TorensVanHanoi.csprojAssemblyReference.cache
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\TorensVanHanoi\obj\Debug\TorensVanHanoi.MenuForm.resources
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\TorensVanHanoi\obj\Debug\TorensVanHanoi.Properties.Resources.resources
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\TorensVanHanoi\obj\Debug\TorensVanHanoi.csproj.GenerateResource.cache
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\TorensVanHanoi\obj\Debug\TorensVanHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\TorensVanHanoi\obj\Debug\TorensVanHanoi.exe
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\TorensVanHanoi\obj\Debug\TorensVanHanoi.pdb

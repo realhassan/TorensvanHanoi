@@ -16,5 +16,11 @@ namespace TorensVanHanoi
         {
             InitializeComponent();
         }
+
+        private void btnForLoop_Click(object sender, EventArgs e)
+        {
+            Form ForLoop = new Form();
+            ForLoop.Show();
+        }
     }
 }
