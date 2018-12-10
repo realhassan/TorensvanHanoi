@@ -16,5 +16,10 @@ namespace TorensVanHanoi
         {
             InitializeComponent();
         }
+
+        private void btnForLoop_Click(object sender, EventArgs e)
+        {
+          
+        }
     }
 }
