@@ -32,6 +32,7 @@
             this.berekenButton = new System.Windows.Forms.Button();
             this.schijvenTextBox = new System.Windows.Forms.TextBox();
             this.schijvenLabel = new System.Windows.Forms.Label();
+            this.lblTime = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblAnswer
@@ -74,11 +75,22 @@
             this.schijvenLabel.TabIndex = 3;
             this.schijvenLabel.Text = "Aantal schijven";
             // 
+            // lblTime
+            // 
+            this.lblTime.AutoSize = true;
+            this.lblTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTime.Location = new System.Drawing.Point(74, 255);
+            this.lblTime.Name = "lblTime";
+            this.lblTime.Size = new System.Drawing.Size(79, 29);
+            this.lblTime.TabIndex = 6;
+            this.lblTime.Text = "label1";
+            // 
             // ForLoop
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(498, 293);
+            this.Controls.Add(this.lblTime);
             this.Controls.Add(this.berekenButton);
             this.Controls.Add(this.schijvenTextBox);
             this.Controls.Add(this.schijvenLabel);
@@ -96,6 +108,7 @@
         private System.Windows.Forms.Button berekenButton;
         private System.Windows.Forms.TextBox schijvenTextBox;
         private System.Windows.Forms.Label schijvenLabel;
+        private System.Windows.Forms.Label lblTime;
     }
 }
 

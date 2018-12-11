@@ -32,6 +32,21 @@ namespace For_Loop
                     lblAnswer.Text = string.Format("Je hebt voor {0} schijven {1} stappen nodig.", invoer, stappen);
                     stappen = stappen * 2 + 1;
                     invoer = invoer + 1;
+
+
+                 
+
+                    if (stappen / 3600 > 1)
+                    {
+                        stappen = stappen / 3600;
+                        lblTime.Text = string.Format("Dat is dan {0} uur", stappen);
+                    }
+                    else
+                    {
+                        lblTime.Text = string.Format("Dat is dan {0} seconden", stappen);
+                    }
+
+                    
                 }
             }
             else

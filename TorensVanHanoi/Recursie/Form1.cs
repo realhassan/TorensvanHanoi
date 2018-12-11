@@ -31,8 +31,6 @@ namespace Recursie
                 double result = count(0, 1, schijven);
                 lblAnswer.Text = string.Format("{0} stappen", result);
             }
-
-
         }
 
         static double count(double zetten, double huidigeschijf, double schijven)
