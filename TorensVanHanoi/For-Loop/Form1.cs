@@ -10,11 +10,34 @@ using System.Windows.Forms;
 
 namespace For_Loop
 {
-    public partial class Form1 : Form
+    public partial class ForLoop : Form
     {
-        public Form1()
+        public ForLoop()
         {
             InitializeComponent();
+        }
+
+        private void berekenButton_Click(object sender, EventArgs e)
+        {
+            double stappen = 1;
+            double disk;
+            int invoer = 1;
+
+            bool gelukt = double.TryParse(schijvenTextBox.Text, out disk);
+
+            if (gelukt)
+            {
+                for (double i = stappen; i <= disk; i++)
+                {
+                    lblAnswer.Text = string.Format("Je hebt voor {0} schijven {1} stappen nodig.", invoer, stappen);
+                    stappen = stappen * 2 + 1;
+                    invoer = invoer + 1;
+                }
+            }
+            else
+            {
+                MessageBox.Show("Voer een cijfer is");
+            }
         }
     }
 }

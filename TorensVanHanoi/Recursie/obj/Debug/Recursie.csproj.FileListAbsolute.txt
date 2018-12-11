@@ -1,0 +1,10 @@
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\Recursie\bin\Debug\Recursie.exe.config
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\Recursie\bin\Debug\Recursie.exe
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\Recursie\bin\Debug\Recursie.pdb
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\Recursie\obj\Debug\Recursie.csprojAssemblyReference.cache
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\Recursie\obj\Debug\Recursie.Recursie.resources
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\Recursie\obj\Debug\Recursie.Properties.Resources.resources
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\Recursie\obj\Debug\Recursie.csproj.GenerateResource.cache
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\Recursie\obj\Debug\Recursie.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\Recursie\obj\Debug\Recursie.exe
+C:\Users\Robin\Documents\School\L1(double)\Periode 2\Project\TorensvanHanoi\TorensVanHanoi\TorensVanHanoi\Recursie\obj\Debug\Recursie.pdb
